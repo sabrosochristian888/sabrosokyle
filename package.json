@@ -2,6 +2,6 @@
   "name": "sabrosokyle",
   "version": "1.0.0",
   "scripts": {
-    "start": "npx serve . -p $PORT"
+    "start": "npx serve . -p $PORT --single"
   }
 }
